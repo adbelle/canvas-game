@@ -1,8 +1,8 @@
 {
-  "name": "simple-starter-with-server",
-  "version": "1.0.0",
+  "name": "canvas-game",
+  "version": "0.0.1",
   "main": "index.js",
-  "license": "MIT",
+  "license": "none",
   "dependencies": {
     "@tmkelly28/tk-css": "^1.0.2",
     "body-parser": "^1.17.2",
